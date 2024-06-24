@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./Products.scss"; // Ensure this path is correct and file exists
+import "./products.scss"; // Ensure this path is correct and file exists
 import DataTable from "../../components/dataTable/DataTable";
 import Add from "../../components/add/Add";
 import { GridColDef } from "@mui/x-data-grid";
