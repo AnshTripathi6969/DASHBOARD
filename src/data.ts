@@ -118,14 +118,14 @@ export const menu = [
 export const topDealUsers = [
   {
     id: 1,
-    img: "akhil2.jpg",
+    img: "https://i.ibb.co/TrgzL3P/akhil2.jpg",
     username: "Akhil T Bhaskar",
     email: "akhil@gmail.com",
     amount: "3.668",
   },
   {
     id: 2,
-    img: "ashish.png",
+    img: "https://i.ibb.co/G2JY1NC/ashish.png",
     username: "Ashish Nehra",
     email: "ashish@gmail.com",
     amount: "3.256",
