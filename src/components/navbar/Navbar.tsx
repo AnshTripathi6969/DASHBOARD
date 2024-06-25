@@ -17,7 +17,7 @@ const Navbar = () => {
         </div>
         <div className="user">
           <img
-            src="dpimage.jpg"
+            src="https://i.ibb.co/d23w9dc/dpimage.jpg"
             alt=""
           />
           <span>Ansh T</span>
