@@ -312,7 +312,7 @@ export const barChartBoxVisit = {
 export const userRows = [
   {
     id: 1,
-    img: "akhil2.jpg",
+    img: "https://i.ibb.co/TrgzL3P/akhil2.jpg",
     lastName: "T Bhaskar",
     firstName: "Akhil",
     email: "akhil@gmail.com",
@@ -322,7 +322,7 @@ export const userRows = [
   },
   {
     id: 2,
-    img: "ashish.png",
+    img: "https://i.ibb.co/G2JY1NC/ashish.png",
     lastName: "Nehra",
     firstName: "Ashish",
     email: "ashish@gmail.com",
@@ -332,7 +332,7 @@ export const userRows = [
   },
   {
     id: 3,
-    img: "abhinav.png",
+    img: "https://i.ibb.co/jJHm82X/abhinav.png",
     lastName: "Jain",
     firstName: "Abhinav",
     email: "abhinav@hottmail.com",
@@ -342,7 +342,7 @@ export const userRows = [
   },
   {
     id: 4,
-    img: "dev.png",
+    img: "https://i.ibb.co/jhPjtmq/dev.png",
     lastName: "Tailor",
     firstName: "Dev",
     email: "dev@gmail.com",
@@ -352,7 +352,7 @@ export const userRows = [
   },
   {
     id: 5,
-    img: "chinmayfinal.png",
+    img: "https://i.ibb.co/XLVZgX3/chinmayfinal.png",
     lastName: "G.",
     firstName: "Chinmay",
     email: "chinmay@yahoo.com",
@@ -361,7 +361,7 @@ export const userRows = [
   },
   {
     id: 6,
-    img: "moon.jpg",
+    img: "https://i.ibb.co/q0vJ64n/moon.jpg",
     lastName: "Sharma",
     firstName: "Anshika",
     email: "anshika@mail.com",
@@ -371,7 +371,7 @@ export const userRows = [
   },
   {
     id: 7,
-    img: "cat2.jpg",
+    img: "https://i.ibb.co/x6snf6W/cat2.jpg",
     lastName: "Deepu",
     firstName: "Anamika",
     email: "anamika@gmail.com",
