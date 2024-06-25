@@ -562,9 +562,9 @@ export const singleUser = {
   title: "Akhil",
   img: "https://i.ibb.co/CWHx2GV/akhil2.jpg",
   info: {
-    username: "akhil42",
-    fullname: "Akhil T Bhaskar",
-    email: "akhil@gmail.com",
+    username: "AmigoCruz",
+    fullname: "Ansh Tripathi",
+    email: "anshamigo@gmail.com",
     phone: "123 456 789",
     status: "verified",
   },
