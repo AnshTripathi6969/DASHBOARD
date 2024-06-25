@@ -559,8 +559,8 @@ export const products = [
 
 export const singleUser = {
   id: 1,
-  title: "Akhil",
-  img: "https://i.ibb.co/CWHx2GV/akhil2.jpg",
+  title: "Ansh T",
+  img: "https://i.ibb.co/d23w9dc/dpimage.jpg",
   info: {
     username: "AmigoCruz",
     fullname: "Ansh Tripathi",
@@ -613,27 +613,27 @@ export const singleUser = {
   },
   activities: [
     {
-      text: "Akhil T Bhaskar purchased Playstation 5 Digital Edition",
+      text: "Ansh T Bhaskar purchased Playstation 5 Digital Edition",
       time: "3 day ago",
     },
     {
-      text: "Akhil T Bhaskar added 3 items into their wishlist",
+      text: "Ansh T Bhaskar added 3 items into their wishlist",
       time: "1 week ago",
     },
     {
-      text: "Akhil T Bhaskar purchased Sony Bravia KD-32w800",
+      text: "Ansh T Bhaskar purchased Sony Bravia KD-32w800",
       time: "2 weeks ago",
     },
     {
-      text: "Akhil T Bhaskar reviewed a product",
+      text: "Ansh T Bhaskar reviewed a product",
       time: "1 month ago",
     },
     {
-      text: "Akhil T Bhaskar added 1 items into their wishlist",
+      text: "Ansh T Bhaskar added 1 items into their wishlist",
       time: "1 month ago",
     },
     {
-      text: "Akhil T Bhaskar reviewed a product",
+      text: "Ansh T Bhaskar reviewed a product",
       time: "2 months ago",
     },
   ],
